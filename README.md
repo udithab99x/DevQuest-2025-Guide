@@ -30,6 +30,10 @@ npm install
 
 **Create Environment File:**
 
+You need to create .env file
+
+**Validate the Environment Setup:**
+
 ```
 
 **Validate Setup:**
