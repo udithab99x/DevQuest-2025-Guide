@@ -73,13 +73,6 @@ Create a `.gitignore` file with the following content:
 
 ```
 node_modules
-config/node_modules
-.env
-.idea
-package-lock.json
-.vscode
-*.sqlite3
-*.xml
 ```
 
 Commit and push changes:
