@@ -101,6 +101,7 @@ git pull
 ---
 
 ## Challenge 0
+- [Check the guide for Challenge 0 here.]([https://devquest.lk](https://udithab99x.github.io/Challenge0/))
 
 You can now try out **Challenge 0** for the test run.
 
