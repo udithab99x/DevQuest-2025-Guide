@@ -1,4 +1,4 @@
-# DevQuest Test Run 2025
+# DevQuest final hackathon 2025
 
 ## Overview
 
@@ -30,7 +30,7 @@ npm install
 
 **Create Environment File:**
 
-You need to create .env file
+You need to create .env file relevent to the code
 
 **Validate the Environment Setup:**
 
@@ -68,7 +68,15 @@ Open `index.html` with Live Server in your browser.
 Run the following command to execute all test cases and validate your setup:
 
 ```bash
-npm test challenge0.test.js
+npm test 
+```
+
+Run the following command to execute single test file:
+
+Example test file
+
+```bash
+npm test challenge01.test.js
 ```
 
 ### 5. Version Control Best Practices
@@ -76,7 +84,7 @@ npm test challenge0.test.js
 Create a `.gitignore` file with the following content:
 
 ```
-node_modules
+node_modules/
 ```
 
 Commit and push changes:
@@ -97,17 +105,15 @@ git pull
 
 ---
 
-## Challenge 0
--[Challenge 0](https://udithab99x.github.io/Challenge0/)
+## Challenges
+-[Challenges](https://udithab99x.github.io/Challenges/)
 
-You can now try out **Challenge 0** for the test run.
 
 ---
 
 ## Additional Resources
 
-- [DevQuest Official Website](https://devquest.lk)
-- [Hacktitude GitHub Repository](https://github.com/hacktitude)
+- [DevQuest Official Website](https://codefest.lk/devquest/)
 
 For any issues or support, contact the DevQuest team at **+94 72 862 73 20**.
 
